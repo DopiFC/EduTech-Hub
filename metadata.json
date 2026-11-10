@@ -1,0 +1,6 @@
+{
+  "name": "EduTech Hub - Học Thuật & Tin Học",
+  "description": "Nền tảng chia sẻ tài liệu học thuật chuyên sâu, tin tức kinh tế công nghệ và hỗ trợ kỹ năng tin học toàn diện.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
